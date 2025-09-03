@@ -1,6 +1,6 @@
 # UASSET SWF Export/Import Tool for Kingdom Hearts 3
 
-This is a C++ console application designed to export and import `.gfx` or `.swf` files from and to `.uexp` files for modding *Kingdom Hearts 3*. The tool is based on a 010 Editor template and allows modders to extract `.gfx` or `.swf` assets (e.g., UI elements) from `.uexp` files, edit them, and import them back into a new `.uexp` file for use in the game.
+This is a C++ console application designed to export and import `.gfx` or `.swf` files from and to `.uexp` files for modding *Kingdom Hearts 3*. The tool allows modders to extract `.gfx` or `.swf` assets (e.g., UI elements) from `.uexp` files, edit them, and import them back into a new `.uexp` file for use in the game.
 
 ## Features
 - **Export**: Extract `.gfx` or `.swf` files from `.uexp` files starting at offset 285.
