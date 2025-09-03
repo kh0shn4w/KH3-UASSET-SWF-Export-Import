@@ -3,7 +3,7 @@
 This is a C++ console application designed to export and import `.gfx` or `.swf` files from and to `.uexp` files for modding *Kingdom Hearts 3*. The tool is based on a 010 Editor template and allows modders to extract `.gfx` or `.swf` assets (e.g., UI elements) from `.uexp` files, edit them, and import them back into a new `.uexp` file for use in the game.
 
 ## Features
-- **Export**: Extract `.gfx` or `.swf` files from `.uexp` files starting at offset 285, as defined by the provided 010 Editor template.
+- **Export**: Extract `.gfx` or `.swf` files from `.uexp` files starting at offset 285.
 - **Import**: Replace the `.gfx` or `.swf` data in a `.uexp` file with an edited version while preserving the original file structure.
 - **Console Interface**: Simple menu-driven interface for selecting export or import operations.
 - **Error Handling**: Basic checks for file operations to ensure reliable extraction and importation.
